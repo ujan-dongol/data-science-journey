@@ -15,3 +15,4 @@ CGPA = 4.0
 print("College : ",college)
 print("Year : ",Year)
 print("CGPA : ", CGPA)
+

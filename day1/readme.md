@@ -6,3 +6,5 @@ Topics Covered:
 - Operators (Addition, Division, etc.)
 - Calculating total, percentage, and GPA
 - Using f-strings and formatting with .2f
+
+
