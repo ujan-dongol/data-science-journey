@@ -1,0 +1,7 @@
+order_id,product,quantity,price,date
+201, Laptop ,1,80000,2025-01-01
+202,Mouse,2,,2025-01-01
+203,keyboard,1,2500,
+204,LAPTOP,1,80000,2025-01-02
+204,LAPTOP,1,80000,2025-01-02
+205,Mouse,3,800,2025-01-03

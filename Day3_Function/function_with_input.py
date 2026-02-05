@@ -7,3 +7,9 @@ def great_user(name):
     
 great_user("Ujan")    
     
+    
+# name → parameter (placeholder)
+
+# "Ujan" → argument (actual value)
+
+# Inside function → name = "Ujan"    
