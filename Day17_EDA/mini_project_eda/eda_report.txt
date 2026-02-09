@@ -1,0 +1,4 @@
+Total Rows: 5
+Total Columns: 6
+Total Revenue: 262220.0
+Average Price: 42392.0
