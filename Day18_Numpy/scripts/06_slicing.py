@@ -13,3 +13,4 @@ print(arr[3:])
 # From index 3 Till end
 
 print(arr[::2])
+# Skip every 2nd element
