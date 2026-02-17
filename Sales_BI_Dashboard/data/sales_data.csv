@@ -1,0 +1,9 @@
+date,month,product,region,revenue,quantity
+2024-01-05,January,Laptop,East,5000,5
+2024-01-12,January,Phone,West,3000,10
+2024-02-08,February,Tablet,North,2000,7
+2024-02-18,February,Laptop,South,5500,4
+2024-03-10,March,Phone,East,4000,12
+2024-03-22,March,Tablet,West,2500,6
+2024-04-05,April,Laptop,North,6000,6
+2024-04-19,April,Phone,South,3500,9
