@@ -1,0 +1,18 @@
+Titanic Model Evaluation Report
+--------------------------------
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.85      0.83       549
+           1       0.74      0.70      0.72       342
+
+    accuracy                           0.79       891
+   macro avg       0.78      0.77      0.77       891
+weighted avg       0.79      0.79      0.79       891
+
+
+AUC Score: 0.8469093194431129
+
+Cross Validation Scores: [0.7877095  0.78651685 0.78651685 0.7752809  0.79213483]
+Average CV Score: 0.7856317870817902
